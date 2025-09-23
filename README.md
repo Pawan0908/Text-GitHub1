@@ -1,7 +1,7 @@
 # Text-GitHub1
 Test
 <br>
-Author:njnjuijiimjimj  Pawan Sorde
-testing only
-Hello GitHub
-Wellcome to Git
+Author: Pawan Sorde <br>
+testing only <br>
+Hello GitHub <br>
+Wellcome to Git <br>
